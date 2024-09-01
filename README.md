@@ -30,10 +30,9 @@ Applies K-means clustering to group songs based on their features. Visualizes cl
 
 Builds a linear regression model to predict song popularity. Evaluates model performance using mean squared error.
 
-## Key Learnings
+## Highlights
 
-- **Data Cleaning:** Identified and removed duplicates to refine dataset.
-- **EDA:** Discovered relationships and distributions in music features.
-- **Clustering:** Grouped similar songs, providing insights into genre and feature similarities.
-- **Regression:** Developed a model to predict song popularity, highlighting the need for further refinement.
-
+- **Data Cleaning:** I learned how to find and remove duplicate entries to make the dataset more accurate.
+- **EDA:** I explored the data to see how different features relate to each other and their distributions.
+- **Clustering:** I used K-means to group songs based on their features, which helped me understand how songs are similar or different.
+- **Regression:** I built a model to predict how popular a song might be, and found out that the model needs more work to improve its accuracy.
